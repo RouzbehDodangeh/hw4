@@ -1,0 +1,170 @@
+.title {
+  display: inline-block;
+  font-size: 35px;
+  padding-left: 45px;
+  margin: 15px;
+}
+.form-head {
+  display: inline-block;
+}
+.input,
+.labels {
+  font-size: 15px;
+  width: 210px;
+  display: block;
+  margin-left: 10px;
+  padding-bottom: 1px;
+}
+.child_1 {
+  font-family: "Fraunces", serif;
+  font-family: "Roboto", sans-serif;
+  display: inline-block;
+  margin: 25px 12% 0px 12%;
+  border: 1px solid rgba(54, 88, 152, 255);
+  width: 1200px;
+  height: 70px;
+  background-color: rgba(54, 88, 152, 255);
+  color: white;
+}
+.child_2 {
+  padding-left: 340px;
+  display: inline-block;
+}
+.button_login {
+  color: white;
+  background-color: #2b82c5;
+  border: 1px solid blue;
+  margin-left: 10px;
+}
+.child_description {
+  width: 1200px;
+  height: 550px;
+  margin: 0px 12%;
+  border: 1px solid rgba(244, 245, 250, 255);
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  background-color: rgba(244, 245, 250, 255);
+  font-family: "Fraunces", serif;
+  font-family: "Roboto", sans-serif;
+}
+.p_facebook {
+  margin: 0px;
+  padding-left: 60px;
+  padding-top: 30px;
+  color: rgb(34, 34, 129);
+  font-size: 20px;
+  float: left;
+}
+.p_account{
+  margin: 15px 0px 5px 0px;
+  float: right;
+  padding-right: 400px;
+  font-family: "Fraunces", serif;
+  font-family: "Roboto", sans-serif;
+  font-size: 30px;
+}
+.p_free{
+  margin: 0px 0px 10px 0px;
+  float: right;
+  padding-right: 465px;
+  font-family: "Fraunces", serif;
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+}
+.form_name{
+  margin: 10px 5px 0px 550px;
+  display: inline-block;
+  width: 500px;
+}
+.input_form{
+  margin: 5px;
+  float: left;
+  border-radius: 3px;
+  border-color: rgb(207, 207, 208);
+  color: rgb(0, 0, 0);
+  font-size: 15px;
+  height: 25px;
+  font-family: "Fraunces", serif;
+  font-family: "Roboto", sans-serif;
+}
+.last-form{
+  display: block;
+  margin: 0px 5px 10px 550px;
+}
+.input_lastForm{
+  margin: 5px;
+  width: 365px;
+  border-radius: 3px;
+  border-color: rgb(207, 207, 208);
+  color: rgb(8, 8, 8);
+  font-size: 15px;
+  height: 25px;
+  font-family: "Fraunces", serif;
+  font-family: "Roboto", sans-serif;
+}
+.birthday-form{
+  
+  display: inline-block;
+  margin: 5px 5px 0px 550px;
+  width: 500px;
+}
+.input_birthday{
+  margin: 5px 2px;
+  float: left;
+  border-radius: 3px;
+  border-color: rgb(207, 207, 208);
+  font-size: 15px;
+  height: 20px;
+  font-family: "Fraunces", serif;
+  font-family: "Roboto", sans-serif;
+}
+.birthday-label{
+  display: block;
+  font-family: "Fraunces", serif;
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+  padding-left: 3px;
+}
+.p_birthday{
+  
+  font-family: "Fraunces", serif;
+  font-family: "Roboto", sans-serif;
+  font-size: 10px;
+  margin: 0px 0px;
+  padding:5px 0px 0px 220px;
+  color: blue;
+}
+.radio-form{
+  display: inline-block;
+  margin: 5px 5px 0px 545px;
+}
+.radio-element{
+  margin: 5px 10px;
+  float: left;
+  font-size: 15px;
+  font-family: "Fraunces", serif;
+  font-family: "Roboto", sans-serif;
+}
+.p-agreement{
+  padding: 0px 20px 0px 555px;
+  font-family: "Fraunces", serif;
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+}
+.CreatAccount{
+  color: white;
+  background-color: #5e974d;
+  font-size: 25px;
+  font-family: "Fraunces", serif;
+  font-family: "Roboto", sans-serif;
+  margin-left: 555px;
+  margin-top: 10px;
+  border-radius: 5px;
+  border: 1px solid #5e974d;
+  width: 200px;
+  height: 45px;
+  
+}
+.CreatAccount:hover{
+  background-color: #5a804e;
+}
